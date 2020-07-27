@@ -47,7 +47,7 @@ sudo chmod +x netbeans-8.2-linux.sh
 
 _Y completar la instalación de netbeans IDE. Para JGAP cick [aquí](https://sourceforge.net/projects/jgap/files/jgap/JGAP%203.6.3/jgap_3.6.3_full.zip/download). Descomprimes y buscamos el archivo jgap.jar que importaras en tu proyecto netbeans para ocupar está librería._
 
-_Android Studio Turotial [aquí](https://developer.android.com/studio/install?hl=es-419)_
+_Android Studio Tutorial [aquí](https://developer.android.com/studio/install?hl=es-419)_
 
 ## Construido con 🛠️
 * [Android Studio](https://developer.android.com/studio) - App móvil
@@ -66,7 +66,7 @@ _Android Studio Turotial [aquí](https://developer.android.com/studio/install?hl
 
 ## Expresiones de Gratitud 🎁
 
-* A mi estimado profe Chau.
+* A mi estimado profe Chau.👨‍🏫
 * A david y huitzilt 🍺 .
 * A Kevin Zhang.
 
